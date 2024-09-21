@@ -14,7 +14,7 @@ Create a mysql database named 'event_booking_system' and import the 'event_booki
 
 ## Update the dependencies
 
-run the commands from the root directory of the project
+Run the commands from the root directory of the project
 ```shell
 composer update
 ```
@@ -30,7 +30,7 @@ Check the website on the browser "http://localhost/wiztecbd_assessment/"
 
 Or,
 
-run the command and hit the IP URl
+Run the command and hit the IP URL provided from it.
 ```shell
 php artisan serve
 ```
