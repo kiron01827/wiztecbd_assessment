@@ -98,7 +98,6 @@ class BookingsController extends Controller
             return false;
         }
 
-
         $booking = new Booking();
         $booking->event_id = $event->id;
         $booking->seats_booked = $seats;
